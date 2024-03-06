@@ -1,4 +1,4 @@
-name: 🔖 Generate GitHub Profile Summary Card
+name: 🔖 Generate GitHub Profile Summary Cards
 
 on:
   schedule: # 毎日深夜0時に実行
