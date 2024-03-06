@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: 🔖 Generate GitHub Profile Summary Card
 
 on:
   schedule: # 毎日深夜0時に実行
@@ -11,7 +11,7 @@ jobs:
     name: generate
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_CARD_PERSONAL_ACCESS_TOKEN }}
