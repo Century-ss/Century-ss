@@ -9,7 +9,6 @@ Hi, I'm Sho Semba. I work as a full-cycle web system developer, and interested i
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,python,vue,aws,ts,react,docker" />
-<br>
 
 ## 📝 Articles
 I write technical articles and share insights on Zenn. Feel free to explore my content [here](https://zenn.dev/century).
