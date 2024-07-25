@@ -16,7 +16,5 @@ Hi, I'm Sho Semba. I work as a full-cycle web system developer, and interested i
 
 [![](https://raw.githubusercontent.com/Century-ss/Century-ss/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Century-ss/Century-ss/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 
-
-## 📝 Articles on Zenn
-https://zenn.dev/century
+## 📝 Articles
+I also write technical articles and share insights on Zenn. Check out my content here:https://zenn.dev/century.
