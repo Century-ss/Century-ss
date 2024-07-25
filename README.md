@@ -5,13 +5,16 @@
 -->
 
 ## Welcome to my Profile! 👋
-Hi, I'm Sho Semba. I work as a full-cycle web system developer, and interested in optimizing CI/CD and Domain-Driven Design (DDD).
+Hi, I'm Sho Semba.  
+I work as a full-cycle web system developer, and interested in optimizing CI/CD and Domain-Driven Design (DDD).  
+I write technical articles and share insights on Zenn. Feel free to explore my content [here](https://zenn.dev/century).
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,python,vue,githubactions,aws,ts,react,docker" />
 
-## 📝 Articles
-Zenn: https://zenn.dev/century
+<!--## 📝 Articles-->
+<!--Zenn: https://zenn.dev/century
+<!--I write technical articles and share insights on Zenn. Feel free to explore my content [here](https://zenn.dev/century).-->
 
 ## 🏃‍♀️ Activities
 <p align="left"> <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Century-ss&layout=compact&count_private=true&show_icons=true&theme=nightowl" /> <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Century-ss&count_private=true&show_icons=true&show_icons=true&theme=nightowl" /> </p> 
