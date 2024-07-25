@@ -13,7 +13,6 @@ Hi, I'm Sho Semba. I work as a full-cycle web system developer, and interested i
 ## 📝 Articles
 I write technical articles and share insights on Zenn. Feel free to explore my content [here](https://zenn.dev/century).
 
-
 ## 🏃‍♀️ Activities
 <p align="left"> <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Century-ss&layout=compact&count_private=true&show_icons=true&theme=nightowl" /> <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Century-ss&count_private=true&show_icons=true&show_icons=true&theme=nightowl" /> </p> 
 
