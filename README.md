@@ -5,11 +5,11 @@
 -->
 
 ## Hi there! 👋
-I work as a full-cycle web system developer, and interested in optimizing CI/CD and Domain-Driven Design (DDD).  
+I work as a web system developer, and interested in optimizing CI/CD and Domain Driven Design (DDD).  
 I write technical articles and share insights on Zenn. Feel free to explore my content [here](https://zenn.dev/century).
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,python,vue,githubactions,aws,ts,react,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,vue,python,githubactions,aws,ts,react,docker" />
 
 <!--## 📝 Articles-->
 <!--Zenn: https://zenn.dev/century
