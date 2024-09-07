@@ -5,15 +5,15 @@
 -->
 
 ## Hi there! 👋
-I work as a web system developer, and interested in optimizing CI/CD and Domain Driven Design (DDD).  
-I write technical articles and share insights on Zenn. Feel free to explore my content [here](https://zenn.dev/century).
+I'm Sho Semba.  
+I work as a web system developer, based in Japan.  
+I'm interested in optimizing CI/CD and Domain Driven Design (DDD).
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,vue,python,githubactions,aws,ts,react,docker" />
 
-<!--## 📝 Articles-->
-<!--Zenn: https://zenn.dev/century
-<!--I write technical articles and share insights on Zenn. Feel free to explore my content [here](https://zenn.dev/century).-->
+## 📝 Articles
+<a href="https://zenn.dev/century" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/Zenn-3EA8FF.svg?&style=for-the-badge&logo=Zenn&logoColor=white" /></a>
 
 ## 🏃‍♀️ Activities
 <p align="left"> <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Century-ss&layout=compact&count_private=true&show_icons=true&theme=nightowl" /> <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Century-ss&count_private=true&show_icons=true&show_icons=true&theme=nightowl" /> </p> 
